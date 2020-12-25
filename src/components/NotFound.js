@@ -16,7 +16,7 @@ const NotFoundWrapper = styled.div`
   position: relative;
   border-radius: 10px;
   top: 20px;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.7);
   border-radius: 10px;
   animation: ${ResultFadeIn} 0.5s 1.4s forwards;
 `;
@@ -30,7 +30,7 @@ const NotfoundIcon = styled.span`
 `;
 
 const NotFoundText = styled.span`
-  color: #ffffff;
+  color: #000;
   font-size: 17px;
 `;
 
